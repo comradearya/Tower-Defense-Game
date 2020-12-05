@@ -1,2 +1,4 @@
-# tower-defense
-My first project work at university. Programming language C++, used SFML library. 
+## Tower Defense
+
+KPI second semester.
+Programming language C++, using SFML library. 
